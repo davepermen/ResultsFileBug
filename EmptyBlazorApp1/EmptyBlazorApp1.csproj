@@ -5,9 +5,6 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 	</PropertyGroup>
 	<ItemGroup>
-	  <Content Remove="wwwroot\1gb.bin" />
-	</ItemGroup>
-	<ItemGroup>
 	  <Folder Include="wwwroot\" />
 	</ItemGroup>
 </Project>
